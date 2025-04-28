@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Joël Sango
 description: all ps here
 ---
