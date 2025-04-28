@@ -14,8 +14,8 @@ layout: default
 <div style="display: flex; justify-content: space-between; margin-top: 20px; gap: 10px;">
   <div style="flex: 1;">
     <h3>projects</h3>
-    <h4 style="display: inline;">african recipe</h4><p> | Android, Firebase</p>
-    <h4 style="display: inline;">concentration game</h4><p> | iOS</p>
+    <p><h4 style="display: inline;">african recipe</h4> | Android, Firebase</p>
+    <p><h4 style="display: inline;">concentration game</h4> | iOS</p>
   </div>
   <div style="flex: 1;">
     <h3>work</h3>
