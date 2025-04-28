@@ -1,3 +1,13 @@
 title: Project J
+description: Personal page
+url: https://itsjoelsango.github.io
 author: Joël
 theme: jekyll-theme-cayman
+
+# Add your social links
+social:
+  twitter: not_yet_on_twitter
+  github: itsjoelsango
+  linkedin: itsjoelsango
+  facebook: not_yet_one_facebook
+  instagram: no_more_on_insta
