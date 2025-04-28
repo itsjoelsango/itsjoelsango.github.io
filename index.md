@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Joël Sango
-description: all ps here
 ---
 
 <div style="text-align: center;">
