@@ -11,8 +11,8 @@ layout: default
   </div>
   <div style="flex: 1;">
     <h3>projects</h3>
-    <h4 style="display: inline;">african recipe</h4><p style="display: inline;"> | Android, Firebase</p>
-    <h4 style="display: inline;">concentration game</h4><p style="display: inline;"> | iOS</p>
+    <h4 style="display: inline;">african recipe</h4><p> | Android, Firebase</p>
+    <h4 style="display: inline;">concentration game</h4><p> | iOS</p>
   </div>
   <div style="flex: 1;">
     <h3>work</h3>
