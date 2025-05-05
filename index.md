@@ -5,9 +5,7 @@ layout: default
 <div style="margin-top: 20px;">
   <div>
     <h3>about</h3>
-    <p>hi! i'm a passionate and dedicated iOS engineer with a strong background in application development and a commitment to
-    continuous learning. Seeking a position where I can leverage my skills in iOS development and backend technologies
-    while contributing to innovative projects.</p>
+    <p>Decided to chart my own course toward becoming an iOS developer, driven by my passion for the craft. To bridge the gap in my formal education, I actively sought additional certifications and immersed myself in learning through WWDC sessions, books, and blogs. This hands-on approach strengthened my technical skills and instilled the discipline to work independently and solve problems proactively. I've successfully developed and shipped applications on the Apple App Store, gaining end-to-end experience in software creation. Watching my apps go live and be used by people has been immensely rewarding, fueling my drive for excellence in iOS engineering.</p>
   </div>
 </div>
 
@@ -20,8 +18,8 @@ layout: default
   <div style="flex: 1;">
     <h3>work</h3>
     <ul>
-      <li><a href="https://apple.co/42thJFm" target="_blank">RC app | iOS store</a></li>
-      <li><a href="https://testflight.apple.com/join/gaThcrdG" target="_blank">RM app | undergoing review on App store</a></li>
+      <li><h4>RC iOS app</h4> |<a href="https://apple.co/42thJFm" target="_blank"> App Store</a></li>
+      <li><h4>RM iOS app</h4> |<a href="https://apple.co/3Ys5wzG" target="_blank"> App Store</a></li>
     </ul>
   </div>
 </div>
