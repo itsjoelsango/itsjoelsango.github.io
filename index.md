@@ -18,8 +18,8 @@ layout: default
   <div style="flex: 1;">
     <h3>work</h3>
     <ul>
-      <li><h4 style="display: inline;>RC iOS app</h4> |<a href="https://apple.co/42thJFm" target="_blank"> App Store</a></li>
-      <li><h4 style="display: inline;>RM iOS app</h4> |<a href="https://apple.co/3Ys5wzG" target="_blank"> App Store</a></li>
+      <li><h4 style="display: inline;">RC iOS app</h4> |<a href="https://apple.co/42thJFm" target="_blank"> App Store</a></li>
+      <li><h4 style="display: inline;">RM iOS app</h4> |<a href="https://apple.co/3Ys5wzG" target="_blank"> App Store</a></li>
     </ul>
   </div>
 </div>
